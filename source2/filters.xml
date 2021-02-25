@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customer>
+        
+    <filters>
+                
+        <filter classelement="com.xmlintl.filters.msoffice.excel.multi.MultilingualExcelFilter" ext="xlsx" extclassloader="no" multilingual="true"/>
+            
+    </filters>
+        
+		tesk sak fkas kafk ska k kak s
+    <reversors>
+                
+        <reversor classelement="com.xmlintl.reverse.msoffice.excel.multi.MultilingualExcelReversor" ext="xlsx.skl" extclassloader="no" multilingual="true"/>
+            
+    </reversors>
+    
+</customer>
